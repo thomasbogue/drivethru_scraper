@@ -1,0 +1,1126 @@
+[
+	{
+		"title": "RuneQuest Starter Set",
+		"url": "https://www.drivethrurpg.com/en/product/370454/runequest-starter-set",
+		"page_count": 180,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 14.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "11/10/21",
+		"format": "PDF",
+		"authors": [
+			"Greg Stafford",
+			"Jeff Richard",
+			"Jason Durall"
+		],
+		"artists": [
+			"Ossi Hiekkala",
+			"Andrey Fetisov",
+			"Jon Hodgson",
+			"Kalin Kadiev",
+			"Roman Kisyov",
+			"Michelle Lockamy",
+			"Jan Pospisil",
+			"Scott Purdy",
+			"Naomi Robinson",
+			"Simon Roy",
+			"Chris Waller",
+			"Jon Hodgson",
+			"Scott Purdy",
+			"Roman Kisyov",
+			"Dimitrina Angelska"
+		],
+		"system": "RuneQuest, BRP (Basic Roleplaying)",
+		"modified_date": "Nov 9, 2021"
+	},
+	{
+		"title": "Going Underground - Rivers of London RPG Scenario",
+		"url": "https://www.drivethrurpg.com/en/product/475104/going-underground-rivers-of-london-rpg-scenario",
+		"page_count": 40,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 6.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Softcover, Premium Color Book (8.25\" x 10.75\")",
+				"price": 20.99,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "Softcover, Standard Color Book (8.25\" x 10.75\")",
+				"price": 14.99,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "PDF + Softcover, Premium Color Book (8.25\" x 10.75\")",
+				"price": 27.98,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": true,
+				"color": true
+			},
+			{
+				"product": "PDF + Softcover, Standard Color Book (8.25\" x 10.75\")",
+				"price": 21.98,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": true
+			}
+		],
+		"published_date": "4/19/24",
+		"format": "PDF, Softcover, Premium Color Book",
+		"authors": [
+			"Ben Aaronovitch",
+			"Lynne Hardy"
+		],
+		"artists": [
+			"Gary Bedell",
+			"Nicola Silvani"
+		],
+		"system": "Basic Roleplaying",
+		"modified_date": "Apr 16, 2024"
+	},
+	{
+		"title": "Call of Cthulhu: Arkham",
+		"url": "https://www.drivethrurpg.com/en/product/469816/call-of-cthulhu-arkham",
+		"page_count": 270,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 29.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "2/21/24",
+		"format": "PDF",
+		"authors": [
+			"Mike Mason",
+			"Keith Herber",
+			"Bret Kramer"
+		],
+		"artists": [
+			"Loïc Muzy",
+			"Helge C Balzer",
+			"Irene Cano with Kasia Smalara",
+			"Nicholas Grey",
+			"Joel Chaim Holtzman",
+			"Ania Jarmołowska",
+			"François Launet",
+			"Wayne Miller",
+			"Loïc Muzy",
+			"Martyna Starczewska",
+			"John Sumrow",
+			"Aleksander Zawada"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Apr 2, 2024"
+	},
+	{
+		"title": "Call of Cthulhu Starter Set",
+		"url": "https://www.drivethrurpg.com/en/product/260810/call-of-cthulhu-starter-set",
+		"page_count": 154,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 9.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "12/12/18",
+		"format": "PDF",
+		"authors": [
+			"Mike Mason",
+			"Paul Fricker",
+			"Lynne Hardy",
+			"Sandy Petersen",
+			"Lynn Willis",
+			"Gavin Inglis",
+			"John Sullivan",
+			"Keith Herber",
+			"Dan Kramer",
+			"Mark Morrison",
+			"Chris Spivey"
+		],
+		"artists": [
+			"Lin Hsiang",
+			"Josu Hernaiz",
+			"Gavin Inglis",
+			"Marcelo Gallegos",
+			"Rachel Khan",
+			"Victor Leza",
+			"Wayne Miller",
+			"Caleb Cleveland",
+			"Eric Lofgren",
+			"Vandel J. Arden",
+			"Olivier Sanphilippo",
+			"Dean Engelhardt"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Jul 5, 2023"
+	},
+	{
+		"title": "Basic Roleplaying: Universal Game Engine",
+		"url": "https://www.drivethrurpg.com/en/product/431991/basic-roleplaying-universal-game-engine",
+		"page_count": 264,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 24.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "4/7/23",
+		"format": "PDF",
+		"authors": [
+			"Jason Durall",
+			"Steve Perrin"
+		],
+		"artists": [
+			"Loïc Muzy",
+			"Grzegorz Bobrowski",
+			"Giorgio Baroni",
+			"Manuel Castanon",
+			"Charlie Creber",
+			"Antonia Doncheva",
+			"Shen Fei",
+			"Andrey Fetisov",
+			"Piotr Foksowicz",
+			"Matt Forsyth",
+			"Ossi Hiekkal",
+			"Chris Huth",
+			"Tomasz Jedruszek Michelle Lockamy",
+			"Phu Thieu Mac",
+			"Lionel Marty",
+			"and more"
+		],
+		"system": "Basic Roleplaying",
+		"modified_date": "Mar 12, 2024"
+	},
+	{
+		"title": "Heinrich's Call of Cthulhu Guide to Carcosa",
+		"url": "https://www.drivethrurpg.com/en/product/462154/heinrich-s-call-of-cthulhu-guide-to-carcosa",
+		"page_count": 340,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 12.95,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Softcover, Premium Color Book (8.5\" x 11\")",
+				"price": 64.95,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "Hardcover, Premium Color Book (8.5\" x 11\")",
+				"price": 68.95,
+				"softcover": false,
+				"hardcover": true,
+				"premium": true,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "PDF + Softcover, Premium Color Book (8.5\" x 11\")",
+				"price": 77.9,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": true,
+				"color": true
+			},
+			{
+				"product": "PDF + Hardcover, Premium Color Book (8.5\" x 11\")",
+				"price": 81.9,
+				"softcover": false,
+				"hardcover": true,
+				"premium": true,
+				"pdf": true,
+				"color": true
+			}
+		],
+		"published_date": "11/29/23",
+		"format": "PDF, Softcover, Premium Color Book",
+		"authors": [
+			"Heinrich D. Moore"
+		],
+		"artists": [
+			"Various"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Jan 23, 2024"
+	},
+	{
+		"title": "Alone Against Nyarlathotep",
+		"url": "https://www.drivethrurpg.com/en/product/476836/alone-against-nyarlathotep",
+		"page_count": 340,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 18.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "4/7/24",
+		"format": "PDF",
+		"authors": [
+			"Lee Wade"
+		],
+		"artists": [
+			"Lee Wade"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Apr 7, 2024"
+	},
+	{
+		"title": "Kane's Tone",
+		"url": "https://www.drivethrurpg.com/en/product/476571/kane-s-tone",
+		"page_count": 28,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 4.49,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "4/4/24",
+		"format": "PDF",
+		"authors": [
+			"Orlando Moreira"
+		],
+		"artists": [
+			"Alex Guillotte"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Apr 4, 2024"
+	},
+	{
+		"title": "Japan - Empire of Shadows: A Call of Cthulhu sourcebook for 1920s Imperial Japan",
+		"url": "https://www.drivethrurpg.com/en/product/446091/japan-empire-of-shadows-a-call-of-cthulhu-sourcebook-for-1920s-imperial-japan",
+		"page_count": 400,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 14.95,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Softcover, Standard Color Book (8.5\" x 11\")",
+				"price": 37.95,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "Hardcover, Standard Color Book (8.5\" x 11\")",
+				"price": 42.95,
+				"softcover": false,
+				"hardcover": true,
+				"premium": false,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "PDF + Softcover, Standard Color Book (8.5\" x 11\")",
+				"price": 52.9,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": true
+			},
+			{
+				"product": "PDF + Hardcover, Standard Color Book (8.5\" x 11\")",
+				"price": 57.9,
+				"softcover": false,
+				"hardcover": true,
+				"premium": false,
+				"pdf": true,
+				"color": true
+			}
+		],
+		"published_date": "7/18/23",
+		"format": "PDF, Softcover, Standard Color Book",
+		"authors": [
+			"David Trotti"
+		],
+		"artists": [],
+		"system": "Call of Cthulhu",
+		"modified_date": "Aug 17, 2023"
+	},
+	{
+		"title": "Power Outage",
+		"url": "https://www.drivethrurpg.com/en/product/476224/power-outage",
+		"page_count": 40,
+		"products": [
+			{
+				"product": "Watermarked PDF",
+				"price": 4.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Softcover, Standard Color Book (8.5\" x 11\")",
+				"price": 10.99,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "PDF + Softcover, Standard Color Book (8.5\" x 11\")",
+				"price": 15.98,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": true
+			}
+		],
+		"published_date": "4/27/24",
+		"format": "Watermarked PDF, Softcover, Standard Color Book",
+		"authors": [
+			"Mike Larrimore",
+			"Brian Pivik",
+			"Bill Yon"
+		],
+		"artists": [
+			"James Turpin"
+		],
+		"system": "BRP (Basic Roleplaying)",
+		"modified_date": "Apr 26, 2024"
+	},
+	{
+		"title": "Viral: A Modern Call of Cthulhu Scenario",
+		"url": "https://www.drivethrurpg.com/en/product/391974/viral-a-modern-call-of-cthulhu-scenario",
+		"page_count": 124,
+		"products": [
+			{
+				"product": "ZIP File",
+				"price": 12.95,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": false,
+				"color": false
+			},
+			{
+				"product": "Softcover, Premium Color Book (8.5\" x 11\")",
+				"price": 31.89,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "Hardcover, Premium Color Book (8.5\" x 11\")",
+				"price": 37.89,
+				"softcover": false,
+				"hardcover": true,
+				"premium": true,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "PDF + Softcover, Premium Color Book (8.5\" x 11\")",
+				"price": 44.84,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": true,
+				"color": true
+			},
+			{
+				"product": "PDF + Hardcover, Premium Color Book (8.5\" x 11\")",
+				"price": 50.84,
+				"softcover": false,
+				"hardcover": true,
+				"premium": true,
+				"pdf": true,
+				"color": true
+			}
+		],
+		"published_date": "4/4/22",
+		"format": "ZIP File, Softcover, Premium Color Book",
+		"authors": [
+			"Alex Guillotte and Bud Baird"
+		],
+		"artists": [
+			"Alex Guillotte"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Feb 15, 2023"
+	},
+	{
+		"title": "Alone Against the Static",
+		"url": "https://www.drivethrurpg.com/en/product/461171/alone-against-the-static",
+		"page_count": 104,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 14.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "12/3/23",
+		"format": "PDF",
+		"authors": [
+			"B.W. Holland"
+		],
+		"artists": [
+			"Andrey Fetisov",
+			"Nicholas Grey",
+			"Pat Loboyko"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "May 6, 2024"
+	},
+	{
+		"title": "The Million Flavoured Ones",
+		"url": "https://www.drivethrurpg.com/en/product/480227/the-million-flavoured-ones",
+		"page_count": 24,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 4.0,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "5/7/24",
+		"format": "PDF",
+		"authors": [
+			"David Kirkby"
+		],
+		"artists": [
+			"David Kirkby"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "May 7, 2024"
+	},
+	{
+		"title": "The Comae Engine",
+		"url": "https://www.drivethrurpg.com/en/product/418884/the-comae-engine",
+		"page_count": 54,
+		"products": [
+			{
+				"product": "Watermarked PDF",
+				"price": 4.95,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Hardcover, Premium Color Book (5.5\" x 8.5\")",
+				"price": 19.0,
+				"softcover": false,
+				"hardcover": true,
+				"premium": true,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "Softcover, Standard Color Book (5.5\" x 8.5\")",
+				"price": 11.0,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "PDF + Hardcover, Premium Color Book (5.5\" x 8.5\")",
+				"price": 23.95,
+				"softcover": false,
+				"hardcover": true,
+				"premium": true,
+				"pdf": true,
+				"color": true
+			},
+			{
+				"product": "PDF + Softcover, Standard Color Book (5.5\" x 8.5\")",
+				"price": 15.95,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": true
+			}
+		],
+		"published_date": "12/7/22",
+		"format": "Watermarked PDF, Hardcover, Premium Color Book",
+		"authors": [
+			"Clarence Redd"
+		],
+		"artists": [
+			"Clarence Redd",
+			"Grandfailure",
+			"Huleeb",
+			"Martin Bergquist"
+		],
+		"system": "Basic Roleplaying, d100 / d100 Lite",
+		"modified_date": "Mar 6, 2024"
+	},
+	{
+		"title": "In Darkness We Wait",
+		"url": "https://www.drivethrurpg.com/en/product/476312/in-darkness-we-wait",
+		"page_count": 36,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 7.95,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "4/10/24",
+		"format": "PDF",
+		"authors": [
+			"Joe Trier",
+			"Sabrina Haenze"
+		],
+		"artists": [
+			"Jason Shepherd",
+			"Matt Ryan"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Apr 2, 2024"
+	},
+	{
+		"title": "[Korean] 눈과 비로 만든 세계",
+		"url": "https://www.drivethrurpg.com/en/product/385006/korean",
+		"page_count": 252,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 25.0,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "1/29/22",
+		"format": "PDF",
+		"authors": [
+			"서라"
+		],
+		"artists": [],
+		"system": "Call of Cthulhu",
+		"modified_date": "Feb 1, 2022"
+	},
+	{
+		"title": "Book of Schemes",
+		"url": "https://www.drivethrurpg.com/en/product/468943/book-of-schemes",
+		"page_count": 272,
+		"products": [
+			{
+				"product": "Watermarked PDF",
+				"price": 16.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Hardcover, Standard Color Book (8.5\" x 11\")",
+				"price": 44.99,
+				"softcover": false,
+				"hardcover": true,
+				"premium": false,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "PDF + Hardcover, Standard Color Book (8.5\" x 11\")",
+				"price": 61.98,
+				"softcover": false,
+				"hardcover": true,
+				"premium": false,
+				"pdf": true,
+				"color": true
+			}
+		],
+		"published_date": "3/9/24",
+		"format": "Watermarked PDF, Hardcover, Standard Color Book",
+		"authors": [
+			"Dan True"
+		],
+		"artists": [
+			"Roena Rosenberger",
+			"James Turpin"
+		],
+		"system": "Basic Roleplaying",
+		"modified_date": "Mar 9, 2024"
+	},
+	{
+		"title": "Mythras",
+		"url": "https://www.drivethrurpg.com/en/product/191475/mythras",
+		"page_count": 304,
+		"products": [
+			{
+				"product": "Watermarked PDF",
+				"price": 15.0,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Hardcover, B&W Book (8.5\" x 11\")",
+				"price": 34.99,
+				"softcover": false,
+				"hardcover": true,
+				"premium": false,
+				"pdf": false,
+				"color": false
+			},
+			{
+				"product": "PDF + Hardcover, B&W Book (8.5\" x 11\")",
+				"price": 45.98,
+				"softcover": false,
+				"hardcover": true,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "8/21/16",
+		"format": "Watermarked PDF, Hardcover, B&W Book",
+		"authors": [
+			"Pete Nash",
+			"Lawrence Whitaker"
+		],
+		"artists": [
+			"David Benzal",
+			"Simon Bray",
+			"Sarah Evans",
+			"Alex Ferreiro",
+			"Eric Lofgren",
+			"Dan MacKinnon",
+			"Pascal Quidault",
+			"Sergio Sandoval",
+			"Lee Smith",
+			"Antonio Vazquez"
+		],
+		"system": "BRP (Basic Roleplaying)",
+		"modified_date": "Feb 21, 2023"
+	},
+	{
+		"title": "Basic Roleplaying",
+		"url": "https://www.drivethrurpg.com/en/product/24384/basic-roleplaying",
+		"page_count": 400,
+		"products": [
+			{
+				"product": "Watermarked PDF",
+				"price": 21.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Softcover, B&W Book (8.5\" x 11\")",
+				"price": 39.99,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": false,
+				"color": false
+			},
+			{
+				"product": "PDF + Softcover, B&W Book (8.5\" x 11\")",
+				"price": 61.98,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "1/17/07",
+		"format": "Watermarked PDF, Softcover, B&W Book",
+		"authors": [
+			"Jason Durall and Chaosium"
+		],
+		"artists": [
+			"Paul Carrick"
+		],
+		"system": "Basic Roleplaying",
+		"modified_date": "Apr 13, 2022"
+	},
+	{
+		"title": "[Korean] The world of cliche",
+		"url": "https://www.drivethrurpg.com/en/product/386943/korean-the-world-of-cliche",
+		"page_count": 202,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 23.0,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "2/14/22",
+		"format": "PDF",
+		"authors": [
+			"Chung seo"
+		],
+		"artists": [
+			"Chung seo"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Feb 14, 2022"
+	},
+	{
+		"title": "[Korean] 100시간 연대기 (Chronicle of 100 hours)",
+		"url": "https://www.drivethrurpg.com/en/product/365897/korean-100-chronicle-of-100-hours",
+		"page_count": null,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 21.0,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "3/19/22",
+		"format": "PDF",
+		"authors": [
+			"시나 (Scena_sqj2)"
+		],
+		"artists": [],
+		"system": "Call of Cthulhu",
+		"modified_date": "Jul 29, 2021"
+	},
+	{
+		"title": "The Oracle of Yuggoth",
+		"url": "https://www.drivethrurpg.com/en/product/478643/the-oracle-of-yuggoth",
+		"page_count": 16,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 3.0,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "4/24/24",
+		"format": "PDF",
+		"authors": [
+			"Quico Vicens-Picatto"
+		],
+		"artists": [
+			"Quico Vicens-Picatto"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Apr 24, 2024"
+	},
+	{
+		"title": "Call of Cthulhu 7th Edition - Keeper's Rulebook",
+		"url": "https://www.drivethrurpg.com/en/product/150997/call-of-cthulhu-7th-edition-keeper-s-rulebook",
+		"page_count": 488,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 27.95,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "6/11/15",
+		"format": "PDF",
+		"authors": [
+			"Sandy Petersen",
+			"Mike Mason",
+			"Paul Fricker",
+			"and Lynn Willis"
+		],
+		"artists": [
+			"Cover by Sam Lamont."
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "May 25, 2023"
+	},
+	{
+		"title": "Flash Cthulhu - Sell Yourself",
+		"url": "https://www.drivethrurpg.com/en/product/479225/flash-cthulhu-sell-yourself",
+		"page_count": 8,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 0.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "4/29/24",
+		"format": "PDF",
+		"authors": [
+			"Michael Reid"
+		],
+		"artists": [
+			"Linus Larsson"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Apr 29, 2024"
+	},
+	{
+		"title": "The Dare",
+		"url": "https://www.drivethrurpg.com/en/product/220315/the-dare",
+		"page_count": 70,
+		"products": [
+			{
+				"product": "Watermarked PDF",
+				"price": 14.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Softcover, B&W Book (8.5\" x 11\")",
+				"price": 16.66,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": false,
+				"color": false
+			},
+			{
+				"product": "PDF + Softcover, B&W Book (8.5\" x 11\")",
+				"price": 26.65,
+				"softcover": true,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "9/29/20",
+		"format": "Watermarked PDF, Softcover, B&W Book",
+		"authors": [
+			"Kevin Ross",
+			"Bret Kramer"
+		],
+		"artists": [
+			"Dean Engelhardt",
+			"Ian MacLean",
+			"Katie von Csefalvay",
+			"Richard Le Duc",
+			"William C. Cronk"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Oct 10, 2020"
+	},
+	{
+		"title": "Swamp Song: A 1920s Scenario for Call of Cthulhu",
+		"url": "https://www.drivethrurpg.com/en/product/431267/swamp-song-a-1920s-scenario-for-call-of-cthulhu",
+		"page_count": 44,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 2.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Softcover, Premium Color Book (8.5\" x 11\")",
+				"price": 9.99,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "PDF + Softcover, Premium Color Book (8.5\" x 11\")",
+				"price": 12.98,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": true,
+				"color": true
+			}
+		],
+		"published_date": "3/22/23",
+		"format": "PDF, Softcover, Premium Color Book",
+		"authors": [
+			"Keeper Doc"
+		],
+		"artists": [
+			"Tom Brown",
+			"Giacomo Mascellani",
+			"Alex Guillote"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Jul 11, 2023"
+	},
+	{
+		"title": "[Korean] 필수교양",
+		"url": "https://www.drivethrurpg.com/en/product/363894/korean",
+		"page_count": 86,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 10.0,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			}
+		],
+		"published_date": "7/11/21",
+		"format": "PDF",
+		"authors": [
+			"녹차라떼 얼음조금"
+		],
+		"artists": [],
+		"system": "Call of Cthulhu",
+		"modified_date": "Jul 12, 2021"
+	},
+	{
+		"title": "Signal to Noise - A 1980s Analog Horror Scenario",
+		"url": "https://www.drivethrurpg.com/en/product/442567/signal-to-noise-a-1980s-analog-horror-scenario",
+		"page_count": 80,
+		"products": [
+			{
+				"product": "PDF",
+				"price": 9.99,
+				"softcover": false,
+				"hardcover": false,
+				"premium": false,
+				"pdf": true,
+				"color": false
+			},
+			{
+				"product": "Softcover, Premium Color Book (8.5\" x 11\")",
+				"price": 22.99,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": false,
+				"color": true
+			},
+			{
+				"product": "PDF + Softcover, Premium Color Book (8.5\" x 11\")",
+				"price": 32.98,
+				"softcover": true,
+				"hardcover": false,
+				"premium": true,
+				"pdf": true,
+				"color": true
+			}
+		],
+		"published_date": "6/22/23",
+		"format": "PDF, Softcover, Premium Color Book",
+		"authors": [
+			"Colin Richards"
+		],
+		"artists": [
+			"Colin Richards"
+		],
+		"system": "Call of Cthulhu",
+		"modified_date": "Feb 21, 2024"
+	}
+]
